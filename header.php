@@ -1,3 +1,4 @@
+<div>Изменения номер раз</div>
 <?if(!defined('B_PROLOG_INCLUDED') || B_PROLOG_INCLUDED !== true)die();?>
 <!DOCTYPE html>
 <html lang="<?=LANGUAGE_ID?>">
@@ -28,7 +29,7 @@
         CJSCore::Init(array("fx"));
     ?>
     <?$APPLICATION->ShowHead()?>
-
+<!-- Изменения номер два -->
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
